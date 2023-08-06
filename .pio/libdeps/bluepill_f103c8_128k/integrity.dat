@@ -1,0 +1,10 @@
+thingsboard/ThingsBoard@0.6.0
+knolleary/PubSubClient@2.8.0
+Wire
+vshymanskyy/TinyGSM@0.11.5
+https://github.com/cyberp/AT24Cx.git
+chris--a/Keypad@3.1.1
+adafruit/RTClib@1.2.0
+bblanchon/ArduinoJson@6.20.1
+arduino-libraries/LiquidCrystal@1.0.7
+arduino-libraries/ArduinoHttpClient@0.4.0
